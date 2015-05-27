@@ -1,4 +1,4 @@
-=== Gigaom Message Area ===
+=== Go Message Area ===
 Contributors: borkweb
 Tags: widgets, admin
 Requires at least: 3.6
@@ -93,13 +93,13 @@ console.log( go_messagearea.messages );
 === Links ===
 
 * [WordPress plugin page](http://wordpress.org/plugins/go-messagearea/)
-* [GitHub repo](https://github.com/GigaOM/go-messagearea)
+* [GitHub repo](https://github.com/borkweb/go-messagearea)
 
 == Installation ==
 
 1. Upload `go-messagearea` to the `/wp-content/plugins/` directory
-1. Activate 'Gigaom MessageArea' through the 'Plugins' menu in WordPress
+1. Activate 'Go MessageArea' through the 'Plugins' menu in WordPress
 
 == Contributing ==
 
-This plugin is developed and [available on GitHub](https://github.com/GigaOM/go-messagearea). Contributions and questions are welcome!
+This plugin is developed and [available on GitHub](https://github.com/borkweb/go-messagearea). Contributions and questions are welcome!
